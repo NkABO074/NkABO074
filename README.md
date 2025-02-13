@@ -5,7 +5,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018e0059-1d76-493f-b7cf-c52e63a9e112.svg)](https://wakatime.com/@018e0059-1d76-493f-b7cf-c52e63a9e112)
 
-[![CodeWars](https://www.codewars.com/users/NkweAhBO/badges/large)
+![CodeWars](https://www.codewars.com/users/NkweAhBO/badges/large)
 <!---
 NkABO074/NkABO074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
